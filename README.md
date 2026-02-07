@@ -1,11 +1,30 @@
-# template
-
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
 
 
 # Project Background
+SliceHub Pizza, established in recent years, is a fast-casual pizza restaurant that serves a wide variety of pizzas across multiple categories through dine-in, takeout, and online ordering channels.
+
+The restaurant has accumulated a substantial amount of transactional data capturing customer orders, pizza types, sizes, pricing, and order timing. However, this data has been largely underutilized beyond basic reporting. This project analyzes and synthesizes the available pizza sales dataset to uncover actionable insights that can improve operational efficiency, menu strategy, and overall revenue performance.
+
+Using detailed order-level and product-level data—including order dates and times, pizza categories, sizes, quantities, and prices—the analysis aims to better understand customer purchasing behavior and sales patterns.
+
+Insights and recommendations are provided across the following key areas:
+
+Sales Trends Analysis:
+Evaluation of historical sales patterns over time, focusing on total revenue, number of orders, and sales by day, month, and time of day to identify peak periods and seasonality.
+
+Menu & Pizza Performance:
+Analysis of pizza performance by category, size, and individual pizza type to determine top-selling items, underperforming menu options, and opportunities for menu optimization.
+
+Order Behavior & Basket Size:
+Assessment of order composition, including the number of pizzas per order and the impact of pizza size and pricing on overall order value.
+
+Operational Insights:
+Identification of high-volume ordering periods to support staffing, inventory planning, and kitchen efficiency improvements.
+
+This data-driven approach enables SliceHub Pizza to make informed decisions around menu design, pricing strategy, promotional timing, and operational planning, ultimately driving higher customer satisfaction and increased profitability.
+
+Pizza Mia, established 2010 is a pizza restaurant that sells a sumptious Pizzas. 
+
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
 Insights and recommendations are provided on the following key areas:
