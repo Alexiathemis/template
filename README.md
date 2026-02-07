@@ -1,33 +1,53 @@
 
 
 # Project Background
+
+## 🍕 Project Background — SliceHub Pizza Sales Analysis
+
 SliceHub Pizza, established in recent years, is a fast-casual pizza restaurant that serves a wide variety of pizzas across multiple categories through dine-in, takeout, and online ordering channels.
 
 The restaurant has accumulated a substantial amount of transactional data capturing customer orders, pizza types, sizes, pricing, and order timing. However, this data has been largely underutilized beyond basic reporting. This project analyzes and synthesizes the available pizza sales dataset to uncover actionable insights that can improve operational efficiency, menu strategy, and overall revenue performance.
 
-Using detailed order-level and product-level data—including order dates and times, pizza categories, sizes, quantities, and prices—the analysis aims to better understand customer purchasing behavior and sales patterns.
+Using detailed order-level and product-level data — including order dates and times, pizza categories, sizes, quantities, and prices — the analysis aims to better understand customer purchasing behavior and sales patterns.
 
-Insights and recommendations are provided across the following key areas:
+---
 
-Sales Trends Analysis:
-Evaluation of historical sales patterns over time, focusing on total revenue, number of orders, and sales by day, month, and time of day to identify peak periods and seasonality.
+## 🔍 Key Focus Areas
 
-Menu & Pizza Performance:
-Analysis of pizza performance by category, size, and individual pizza type to determine top-selling items, underperforming menu options, and opportunities for menu optimization.
+### 1) Sales Trends Analysis
+Evaluation of historical sales patterns over time, focusing on:
+- **Total revenue**
+- **Number of orders**
+- **Sales by day, month, and time of day**
+- Identification of **peak periods** and **seasonality**
 
-Order Behavior & Basket Size:
-Assessment of order composition, including the number of pizzas per order and the impact of pizza size and pricing on overall order value.
+### 2) Menu & Pizza Performance
+Analysis of pizza performance by:
+- **Category**
+- **Size**
+- **Individual pizza type**
 
-Operational Insights:
-Identification of high-volume ordering periods to support staffing, inventory planning, and kitchen efficiency improvements.
+Used to identify:
+- **Top-selling items**
+- **Underperforming menu options**
+- Opportunities for **menu optimization**
 
-This data-driven approach enables SliceHub Pizza to make informed decisions around menu design, pricing strategy, promotional timing, and operational planning, ultimately driving higher customer satisfaction and increased profitability.
+### 3) Order Behavior & Basket Size
+Assessment of order composition, including:
+- **Pizzas per order**
+- The impact of **pizza size** and **pricing** on **overall order value**
 
-Pizza Mia, established 2010 is a pizza restaurant that sells a sumptious Pizzas. 
+### 4) Operational Insights
+Identification of high-volume ordering periods to support:
+- **Staffing decisions**
+- **Inventory planning**
+- **Kitchen efficiency improvements**
 
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+---
 
-Insights and recommendations are provided on the following key areas:
+## ✅ Outcome
+This data-driven approach enables SliceHub Pizza to make informed decisions around **menu design**, **pricing strategy**, **promotional timing**, and **operational planning**, ultimately driving **higher customer satisfaction** and **increased profitability**.
+
 
 - **Category 1:** 
 - **Category 2:** 
