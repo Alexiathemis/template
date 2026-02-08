@@ -2,9 +2,9 @@
 
 # Project Background
 
-## 🍕 Project Background — SliceHub Pizza Sales Analysis
+## 🍕 Project Background — PizzaMia Pizza Sales Analysis
 
-SliceHub Pizza, established in recent years, is a fast-casual pizza restaurant that serves a wide variety of pizzas across multiple categories through dine-in, takeout, and online ordering channels.
+PizzaMia Pizza, established in recent years, is a fast-casual pizza restaurant that serves a wide variety of pizzas across multiple categories through dine-in, takeout, and online ordering channels.
 
 The restaurant has accumulated a substantial amount of transactional data capturing customer orders, pizza types, sizes, pricing, and order timing. However, this data has been largely underutilized beyond basic reporting. This project analyzes and synthesizes the available pizza sales dataset to uncover actionable insights that can improve operational efficiency, menu strategy, and overall revenue performance.
 
@@ -12,12 +12,13 @@ Using detailed order-level and product-level data — including order dates and 
 
 ---
 
-## 🔍 Key Focus Areas
+##  My Key Focus Areas
 
 ### 1) Sales Trends Analysis
 Evaluation of historical sales patterns over time, focusing on:
 - **Total revenue**
 - **Number of orders**
+  Total orders, Average order amount per order
 - **Sales by day, month, and time of day**
 - Identification of **peak periods** and **seasonality**
 
@@ -45,8 +46,12 @@ Identification of high-volume ordering periods to support:
 
 ---
 
-## ✅ Outcome
-This data-driven approach enables SliceHub Pizza to make informed decisions around **menu design**, **pricing strategy**, **promotional timing**, and **operational planning**, ultimately driving **higher customer satisfaction** and **increased profitability**.
+The tableau Dashboard can be found here. 
+
+Targeted queries regarding various business questions can be found here.
+
+## Outcome
+This data-driven approach enables PizzaMia Pizza to make informed decisions around **menu design**, **pricing strategy**, **promotional timing**, and **operational planning**, ultimately driving **higher customer satisfaction** and **increased profitability**.
 
 
 - **Category 1:** 
@@ -63,6 +68,41 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 
 # Data Structure & Initial Checks
+
+erDiagram
+  orders ||--o{ order_details : has
+  pizzas ||--o{ order_details : contains
+  pizza_types ||--o{ pizzas : defines
+
+  orders {
+    order_id
+    date
+    time
+  }
+
+  order_details {
+    order_details_id
+    order_id
+    pizza_id
+    quantity
+    pizza_type
+    size
+  }
+
+  pizzas {
+    pizza_id
+    pizza_type_id
+    size
+    price
+  }
+
+  pizza_types {
+    pizza_type_id
+    name
+    category
+    ingredients
+  }
+
 
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
 - **Table 2:**
