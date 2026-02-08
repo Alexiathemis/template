@@ -69,6 +69,9 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
+## Database Diagram
+
+```mermaid
 flowchart LR
   orders[orders<br/>• order_id<br/>• date<br/>• time]
   order_details[order_details<br/>• order_details_id<br/>• order_id (FK)<br/>• pizza_id (FK)<br/>• quantity<br/>• pizza_type<br/>• size]
@@ -78,13 +81,6 @@ flowchart LR
   orders -.->|order_id| order_details
   pizzas -.->|pizza_id| order_details
   pizza_types -.->|pizza_type_id| pizzas
-
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
 
 [Entity Relationship Diagram here]
 
