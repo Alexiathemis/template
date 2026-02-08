@@ -69,39 +69,15 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-erDiagram
-  orders ||--o{ order_details : has
-  pizzas ||--o{ order_details : contains
-  pizza_types ||--o{ pizzas : defines
+flowchart LR
+  orders[orders<br/>• order_id<br/>• date<br/>• time]
+  order_details[order_details<br/>• order_details_id<br/>• order_id (FK)<br/>• pizza_id (FK)<br/>• quantity<br/>• pizza_type<br/>• size]
+  pizzas[pizzas<br/>• pizza_id<br/>• pizza_type_id (FK)<br/>• size<br/>• price]
+  pizza_types[pizza_types<br/>• pizza_type_id<br/>• name<br/>• category<br/>• ingredients]
 
-  orders {
-    order_id
-    date
-    time
-  }
-
-  order_details {
-    order_details_id
-    order_id
-    pizza_id
-    quantity
-    pizza_type
-    size
-  }
-
-  pizzas {
-    pizza_id
-    pizza_type_id
-    size
-    price
-  }
-
-  pizza_types {
-    pizza_type_id
-    name
-    category
-    ingredients
-  }
+  orders -.->|order_id| order_details
+  pizzas -.->|pizza_id| order_details
+  pizza_types -.->|pizza_type_id| pizzas
 
 
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
