@@ -71,19 +71,15 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 ## Database Diagram
 
-```mermaid
 flowchart LR
-  orders[orders<br/>• order_id<br/>• date<br/>• time]
-  order_details[order_details<br/>• order_details_id<br/>• order_id (FK)<br/>• pizza_id (FK)<br/>• quantity<br/>• pizza_type<br/>• size]
-  pizzas[pizzas<br/>• pizza_id<br/>• pizza_type_id (FK)<br/>• size<br/>• price]
-  pizza_types[pizza_types<br/>• pizza_type_id<br/>• name<br/>• category<br/>• ingredients]
+  orders[orders<br/>- order_id<br/>- date<br/>- time]
+  order_details[order_details<br/>- order_details_id<br/>- order_id (FK)<br/>- pizza_id (FK)<br/>- quantity<br/>- pizza_type<br/>- size]
+  pizzas[pizzas<br/>- pizza_id<br/>- pizza_type_id (FK)<br/>- size<br/>- price]
+  pizza_types[pizza_types<br/>- pizza_type_id<br/>- name<br/>- category<br/>- ingredients]
 
   orders -.->|order_id| order_details
   pizzas -.->|pizza_id| order_details
   pizza_types -.->|pizza_type_id| pizzas
-
-[Entity Relationship Diagram here]
-
 
 
 # Executive Summary
