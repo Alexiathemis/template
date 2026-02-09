@@ -86,7 +86,7 @@ flowchart LR
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Pizza Mia generated strong performance with $817.9K in revenue from 21.3K orders, driven primarily by chicken-based pizzas and large sizes, which dominate both sales volume and revenue. July was the peak month, while October lagged, indicating clear seasonality that can be leveraged for targeted promotions. Conversely, XL/XXL sizes and niche pizzas (e.g., Brie Carre) underperformed, suggesting an opportunity to streamline the menu or rethink pricing and positioning for low-demand items.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
