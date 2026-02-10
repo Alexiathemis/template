@@ -2,7 +2,7 @@
 
 # Project Background
 
-## 🍕 Project Background — PizzaMia Pizza Sales Analysis
+## Project Background — PizzaMia Pizza Sales Analysis
 
 PizzaMia Pizza, established in recent years, is a fast-casual pizza restaurant that serves a wide variety of pizzas across multiple categories through dine-in, takeout, and online ordering channels.
 
