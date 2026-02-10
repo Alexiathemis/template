@@ -20,20 +20,14 @@ Evaluation of sales patterns over a year, examining weekly and daily trends with
 ### Menu & Pizza Performance
 An analysis of pizza performance across categories, sizes, and individual pizza types to understand how each product impacts total sales and revenue. This section highlights top-performing pizzas, identifies underperforming menu items, and surfaces opportunities for menu optimization through pricing, promotions, or product selection.
 
-### 3) Order Behavior & Basket Size
-Assessment of order composition, including:
-- **Pizzas per order**
-- The impact of **pizza size** and **pricing** on **overall order value**
+### Quantity & Size Distribution:
+This section summarizes order composition by calculating the average number of pizzas per order and analyzing the distribution of pizza sizes purchased. The goal is to understand typical basket size and how customer preferences vary by size.
 
-### 4) Operational Insights
-Identification of high-volume ordering periods to support:
-- **Staffing decisions**
-- **Inventory planning**
-- **Kitchen efficiency improvements**
-
+### Revenue Analysis:
+This section breaks down revenue contribution by pizza type to show which items drive the largest share of sales. It identifies the top revenue-generating pizza and the lowest revenue-generating pizza to support menu optimization decisions.
 ---
 
-The tableau Dashboard can be found here. 
+The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] (https://public.tableau.com/app/profile/alexia.themistocleous/viz/PizzaBusinessinsights/DashboardVc)
 
 Targeted queries regarding various business questions can be found here.
 
