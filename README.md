@@ -14,24 +14,11 @@ Using detailed order-level and product-level data — including order dates and 
 
 ##  My Key Focus Areas
 
-### 1) Sales Trends Analysis
-Evaluation of historical sales patterns over time, focusing on:
-- **Total revenue**
-- **Number of orders**
-  Total orders, Average order amount per order
-- **Sales by day, month, and time of day**
-- Identification of **peak periods** and **seasonality**
+### Sales Trends Analysis
+Evaluation of sales patterns over a year, examining weekly and daily trends with a focus on total revenue, number of orders, and average order value per day, as well as identifying which times of the day generate the highest-value orders. This analysis helps highlight peak periods and seasonal trends in customer demand.
 
-### 2) Menu & Pizza Performance
-Analysis of pizza performance by:
-- **Category**
-- **Size**
-- **Individual pizza type**
-
-Used to identify:
-- **Top-selling items**
-- **Underperforming menu options**
-- Opportunities for **menu optimization**
+### Menu & Pizza Performance
+An analysis of pizza performance across categories, sizes, and individual pizza types to understand how each product impacts total sales and revenue. This section highlights top-performing pizzas, identifies underperforming menu items, and surfaces opportunities for menu optimization through pricing, promotions, or product selection.
 
 ### 3) Order Behavior & Basket Size
 Assessment of order composition, including:
