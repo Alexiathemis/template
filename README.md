@@ -29,28 +29,13 @@ This section breaks down revenue contribution by pizza type to show which items 
 
 The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] (https://public.tableau.com/app/profile/alexia.themistocleous/viz/PizzaBusinessinsights/DashboardVc)
 
-Targeted queries regarding various business questions can be found here.
-
-## Outcome
-This data-driven approach enables PizzaMia Pizza to make informed decisions around **menu design**, **pricing strategy**, **promotional timing**, and **operational planning**, ultimately driving **higher customer satisfaction** and **increased profitability**.
-
-
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
-
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
 
 
 # Data Structure & Initial Checks
 
 ## Database Diagram
+
 
 
 
