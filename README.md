@@ -25,6 +25,7 @@ This section summarizes order composition by calculating the average number of p
 
 ### Revenue Analysis:
 This section breaks down revenue contribution by pizza type to show which items drive the largest share of sales. It identifies the top revenue-generating pizza and the lowest revenue-generating pizza to support menu optimization decisions.
+
 ---
 
 The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] (https://public.tableau.com/app/profile/alexia.themistocleous/viz/PizzaBusinessinsights/DashboardVc)
