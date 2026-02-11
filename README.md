@@ -72,21 +72,19 @@ Revenue contribution is concentrated among a small group of high-performing pizz
 The business appears more volume-driven than price-driven, as stable average order value suggests revenue growth is largely influenced by order frequency rather than significant price changes. Small increases in average order value—through bundles, add-ons, or upsizing strategies—could significantly increase annual revenue without requiring additional customer traffic.  
 
 
+### Recommendations
 
+Based on the insights and findings above, we would recommend the stakeholder team to consider the following:
 
-# Recommendations:
+Fridays and peak meal hours (12–1 PM and 5–7 PM) generate the highest order volume, while mornings (9–11 AM) and late evenings show consistently low traffic. The team should optimize staffing schedules around peak demand periods and consider introducing targeted promotions or limited-time offers during slow hours to better balance daily sales performance.
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Chicken-based pizzas contribute the highest share of revenue, with Thai Chicken, Barbecue Chicken, and California Chicken leading performance. The team should prioritize marketing and promotional campaigns around high-performing chicken varieties and consider expanding similar flavor profiles to capitalize on strong customer preference.
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+The Classic Deluxe Pizza drives the highest order volume but does not generate the highest revenue, while premium pizzas generate stronger revenue per order. The team should implement upselling strategies, such as combo deals or premium topping add-ons, to increase the average order value of high-volume items.
+
+XL and XXL sizes show extremely low demand, with XXL limited to only one pizza type and generating minimal sales. The team should reassess the pricing structure and size availability strategy, either by adjusting the price gap between Large and XL sizes or simplifying the menu by removing underperforming size options.
+
+Revenue is concentrated among a small group of top-performing pizzas, while items like Brie Carre contribute minimal revenue and order volume. The team should evaluate underperforming menu items for repositioning, repricing, or removal to streamline operations and focus on high-margin, high-demand products.
   
 
 
