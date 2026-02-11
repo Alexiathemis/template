@@ -87,13 +87,22 @@ XL and XXL sizes show extremely low demand, with XXL limited to only one pizza t
 Revenue is concentrated among a small group of top-performing pizzas, while items like Brie Carre contribute minimal revenue and order volume. The team should evaluate underperforming menu items for repositioning, repricing, or removal to streamline operations and focus on high-margin, high-demand products.
   
 
-
 # Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+Assumption 1: This analysis is based on a fictional company and dataset, so the results are intended for analytical demonstration rather than real-world business forecasting.
+
+Assumption 2: Historical comparison is limited because prior-year data is unavailable, so trends and seasonality are interpreted only within the single year provided.
+
+Assumption 3: Revenue figures are assumed to reflect final sales values; if discounts, promotions, coupons, taxes, delivery fees, or refunds are not captured in the dataset, total revenue and average order value may be overstated or understated.
+
+Assumption 4: Time-based insights (hourly peaks and day-of-week trends) assume timestamps are accurate and consistently recorded; if orders span multiple time zones, or if timestamps reflect entry time rather than purchase time, peak-hour conclusions may be skewed.
+
+Assumption 5: Menu performance conclusions assume pizzas were consistently categorized (e.g., “Chicken,” “Classic,” etc.); if product names or categories changed over time or were entered inconsistently, some items may be misclassified.
+
+Assumption 6: Size distribution analysis assumes each “pizza sold” is one unit and that units are comparable across sizes; this does not account for differences in serving size, margins, or ingredient cost, so profitability may differ from sales volume patterns.
+
+Assumption 7: The dataset does not include customer-level attributes (e.g., new vs returning customers, location, delivery vs dine-in), so the analysis cannot explain why certain trends occur—only what patterns exist.
+
+Assumption 8: The analysis focuses on sales and revenue, but does not account for cost or margin; therefore, “top revenue” pizzas may not be the most profitable items.
