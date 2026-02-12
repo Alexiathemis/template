@@ -8,7 +8,7 @@ PizzaMia Pizza, established in recent years, is a fast-casual pizza restaurant t
 
 The restaurant has accumulated a substantial amount of transactional data capturing customer orders, pizza types, sizes, pricing, and order timing. However, this data has been largely underutilized beyond basic reporting. This project analyzes and synthesizes the available pizza sales dataset to uncover actionable insights that can improve operational efficiency, menu strategy, and overall revenue performance.
 
-Using detailed order-level and product-level data — including order dates and times, pizza categories, sizes, quantities, and prices — the analysis aims to better understand customer purchasing behavior and sales patterns.
+Using detailed order-level and product-level data; including order dates and times, pizza categories, sizes, quantities, and prices  the analysis aims to better understand customer purchasing behavior and sales patterns.
 
 ---
 
