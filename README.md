@@ -55,12 +55,20 @@ Pizza Mia generated strong performance with $817.9K in revenue from 21.3K orders
 ### Sales Trends  
 The company generated a total revenue of $817,860 from 21,350 orders, selling 49,574 pizzas during the year, with an average order value of $38.31 and an average of 2.3 pizzas per order. Revenue peaked in July at $72,558, while October recorded the lowest revenue at $64,028, indicating moderate seasonality with stronger performance during mid-year months.  
 
+<img width="667" height="376" alt="Screenshot 2026-02-18 at 10 27 41 AM" src="https://github.com/user-attachments/assets/1eb5b360-41a3-45d4-9073-09d0f1e60f47" />
+
 Weekly sales patterns show that Fridays are the busiest day, generating the highest number of orders (3,538), followed closely by Thursdays and Saturdays, while Sundays are the slowest day (2,624 orders). Hourly analysis reveals clear demand spikes during lunch (12–1 PM) and dinner hours (5–7 PM), while traffic remains consistently low between 9–11 AM and declines after 9 PM, suggesting opportunities to optimize staffing and operating hours.  
+
+<img width="720" height="299" alt="Screenshot 2026-02-18 at 10 30 13 AM" src="https://github.com/user-attachments/assets/fd72e042-60bb-4194-9e71-112ce16ef2ff" />
+
 
 ### Menu & Pizza Performance  
 Sales are strongly driven by the Chicken category, which contains the top revenue-generating pizzas. The Thai Chicken Pizza ($43,434), Barbecue Chicken Pizza ($42,768), and California Chicken Pizza ($41,410) lead in revenue contribution, making chicken-based pizzas the most valuable segment of the menu.  
 
 In terms of order volume, the Classic Deluxe Pizza is the most frequently ordered item (2,416 orders), showing that it is a strong volume driver, even if it does not generate the highest revenue overall. On the other hand, the Brie Carre Pizza is the weakest performer, contributing only $11,588 in revenue and 480 orders, making it the poorest-performing menu item and a potential candidate for menu optimization or removal.  
+
+<img width="667" height="379" alt="Screenshot 2026-02-19 at 10 56 11 AM" src="https://github.com/user-attachments/assets/c5ac1d78-d32f-4dc6-a1f1-b389ab79b1b0" />
+
 
 ### Quantity & Size Distribution  
 Customers typically order more than one pizza per transaction, averaging 2.3 pizzas per order, indicating that purchases are often made for families or groups. The Large (L) size is the most preferred, with 18,956 pizzas sold, followed by Medium (15,635) and Small (14,403).  
@@ -70,7 +78,10 @@ In contrast, XL (552 sales) and XXL (28 sales) sizes show extremely low demand. 
 ### Revenue Analysis  
 Revenue contribution is concentrated among a small group of high-performing pizzas, particularly premium chicken varieties. While the Classic Deluxe leads in quantity sold, higher-priced pizzas like Thai Chicken generate greater revenue, indicating that pricing plays a significant role in total revenue contribution.  
 
+
+
 The business appears more volume-driven than price-driven, as stable average order value suggests revenue growth is largely influenced by order frequency rather than significant price changes. Small increases in average order value—through bundles, add-ons, or upsizing strategies—could significantly increase annual revenue without requiring additional customer traffic.  
+
 
 
 ### Recommendations
