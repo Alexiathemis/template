@@ -99,14 +99,8 @@ Assumption 1: This analysis is based on a fictional company and dataset, so the 
 
 Assumption 2: Historical comparison is limited because prior-year data is unavailable, so trends and seasonality are interpreted only within the single year provided.
 
-Assumption 3: Revenue figures are assumed to reflect final sales values; if discounts, promotions, coupons, taxes, delivery fees, or refunds are not captured in the dataset, total revenue and average order value may be overstated or understated.
+Assumption 3: Revenue figures are assumed to reflect final sales values;  discounts and promotions, coupons, delivery fees, or refunds are not identified in the dataset, total revenue and average order value may be overstated or understated.
 
-Assumption 4: Time-based insights (hourly peaks and day-of-week trends) assume timestamps are accurate and consistently recorded; if orders span multiple time zones, or if timestamps reflect entry time rather than purchase time, peak-hour conclusions may be skewed.
+Assumption 4: The dataset does not include customer-level attributes (e.g., new vs returning customers, location, delivery vs dine-in), so the analysis cannot explain why certain trends occur—only what patterns exist.
 
-Assumption 5: Menu performance conclusions assume pizzas were consistently categorized (e.g., “Chicken,” “Classic,” etc.); if product names or categories changed over time or were entered inconsistently, some items may be misclassified.
-
-Assumption 6: Size distribution analysis assumes each “pizza sold” is one unit and that units are comparable across sizes; this does not account for differences in serving size, margins, or ingredient cost, so profitability may differ from sales volume patterns.
-
-Assumption 7: The dataset does not include customer-level attributes (e.g., new vs returning customers, location, delivery vs dine-in), so the analysis cannot explain why certain trends occur—only what patterns exist.
-
-Assumption 8: The analysis focuses on sales and revenue, but does not account for cost or margin; therefore, “top revenue” pizzas may not be the most profitable items.
+Assumption 5: The analysis focuses on sales and revenue, but does not account for cost or margin; therefore, “top revenue” pizzas may not be the most profitable items.
