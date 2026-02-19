@@ -55,33 +55,34 @@ Pizza Mia generated strong performance with $817.9K in revenue from 21.3K orders
 ### Sales Trends  
 The company generated a total revenue of $817,860 from 21,350 orders, selling 49,574 pizzas during the year, with an average order value of $38.31 and an average of 2.3 pizzas per order. Revenue peaked in July at $72,558, while October recorded the lowest revenue at $64,028, indicating moderate seasonality with stronger performance during mid-year months.  
 
-<img width="710" height="232" alt="Screenshot 2026-02-19 at 11 10 38 AM" src="https://github.com/user-attachments/assets/1c81659d-19b9-4f51-8495-c498537c838f" />
+<img width="708" height="239" alt="Screenshot 2026-02-19 at 5 42 20 PM" src="https://github.com/user-attachments/assets/a671944e-ef48-40f8-b7f9-2f250d92f740" />
+
 
 Weekly sales patterns show that Fridays are the busiest day, generating the highest number of orders (3,538), followed closely by Thursdays and Saturdays, while Sundays are the slowest day (2,624 orders). Hourly analysis reveals clear demand spikes during lunch (12–1 PM) and dinner hours (5–7 PM), while traffic remains consistently low between 9–11 AM and declines after 9 PM, suggesting opportunities to optimize staffing and operating hours.  
 
-<img width="714" height="293" alt="Screenshot 2026-02-19 at 11 13 34 AM" src="https://github.com/user-attachments/assets/46d1b6f2-7251-4da5-aea1-f98ec5a1a032" />
+<img width="717" height="292" alt="Screenshot 2026-02-19 at 5 43 11 PM" src="https://github.com/user-attachments/assets/d47a8f1d-3f1c-41ac-bf0b-755762e6f615" />
 
 ### Menu & Pizza Performance  
 Sales are strongly driven by the Chicken category, which contains the top revenue-generating pizzas. The Thai Chicken Pizza ($43,434), Barbecue Chicken Pizza ($42,768), and California Chicken Pizza ($41,410) lead in revenue contribution, making chicken-based pizzas the most valuable segment of the menu.  
 
 In terms of order volume, the Classic Deluxe Pizza is the most frequently ordered item (2,416 orders), showing that it is a strong volume driver, even if it does not generate the highest revenue overall. On the other hand, the Brie Carre Pizza is the weakest performer, contributing only $11,588 in revenue and 480 orders, making it the poorest-performing menu item and a potential candidate for menu optimization or removal.  
 
-<img width="667" height="379" alt="Screenshot 2026-02-19 at 10 56 11 AM" src="https://github.com/user-attachments/assets/c5ac1d78-d32f-4dc6-a1f1-b389ab79b1b0" />
+<img width="324" height="148" alt="Screenshot 2026-02-19 at 5 44 22 PM" src="https://github.com/user-attachments/assets/7303d767-80e7-421e-8316-5f0b2941985b" />
 
+
+<img width="329" height="215" alt="Screenshot 2026-02-19 at 5 44 12 PM" src="https://github.com/user-attachments/assets/40360ed0-ba43-4a78-8033-54787112eb49" />
 
 ### Quantity & Size Distribution  
 Customers typically order more than one pizza per transaction, averaging 2.3 pizzas per order, indicating that purchases are often made for families or groups. The Large (L) size is the most preferred, with 18,956 pizzas sold, followed by Medium (15,635) and Small (14,403).  
 
 In contrast, XL (552 sales) and XXL (28 sales) sizes show extremely low demand. Notably, XXL is only available for the Greek pizza, which may limit its performance. The sharp drop-off in demand beyond Large size suggests customers perceive Large as offering the best value for money.  
 
+<img width="199" height="296" alt="Screenshot 2026-02-19 at 5 56 42 PM" src="https://github.com/user-attachments/assets/aaca7e09-6d2c-4997-a46a-236a0d92ef24" />
+
 ### Revenue Analysis  
 Revenue contribution is concentrated among a small group of high-performing pizzas, particularly premium chicken varieties. While the Classic Deluxe leads in quantity sold, higher-priced pizzas like Thai Chicken generate greater revenue, indicating that pricing plays a significant role in total revenue contribution.  
 
-
-
 The business appears more volume-driven than price-driven, as stable average order value suggests revenue growth is largely influenced by order frequency rather than significant price changes. Small increases in average order value—through bundles, add-ons, or upsizing strategies—could significantly increase annual revenue without requiring additional customer traffic.  
-
-
 
 ### Recommendations
 
