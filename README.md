@@ -28,7 +28,7 @@ This section breaks down revenue contribution by pizza type to show which items 
 
 ---
 
-The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] (https://public.tableau.com/app/profile/alexia.themistocleous/viz/PizzaBusinessinsights/DashboardVc)
+The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
@@ -37,8 +37,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 ## Database Diagram
 
-
-
+<img width="689" height="395" alt="Screenshot 2026-02-08 at 8 57 48 PM" src="https://github.com/user-attachments/assets/ad6adddb-bfe6-4993-a842-88821081cecb" />
 
 # Executive Summary
 
@@ -47,8 +46,6 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 Pizza Mia generated strong performance with $817.9K in revenue from 21.3K orders, driven primarily by chicken-based pizzas and large sizes, which dominate both sales volume and revenue. July was the peak month, while October lagged, indicating clear seasonality that can be leveraged for targeted promotions. Conversely, XL/XXL sizes and niche pizzas (e.g., Brie Carre) underperformed, suggesting an opportunity to streamline the menu or rethink pricing and positioning for low-demand items.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
-
-
 
 # Pizza Sales Insights
 
