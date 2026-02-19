@@ -59,8 +59,7 @@ The company generated a total revenue of $817,860 from 21,350 orders, selling 49
 
 Weekly sales patterns show that Fridays are the busiest day, generating the highest number of orders (3,538), followed closely by Thursdays and Saturdays, while Sundays are the slowest day (2,624 orders). Hourly analysis reveals clear demand spikes during lunch (12–1 PM) and dinner hours (5–7 PM), while traffic remains consistently low between 9–11 AM and declines after 9 PM, suggesting opportunities to optimize staffing and operating hours.  
 
-<img width="720" height="299" alt="Screenshot 2026-02-18 at 10 30 13 AM" src="https://github.com/user-attachments/assets/fd72e042-60bb-4194-9e71-112ce16ef2ff" />
-
+<img width="718" height="299" alt="Screenshot 2026-02-19 at 11 01 14 AM" src="https://github.com/user-attachments/assets/d5901e33-bcee-404e-8a97-11cb82d02df9" />
 
 ### Menu & Pizza Performance  
 Sales are strongly driven by the Chicken category, which contains the top revenue-generating pizzas. The Thai Chicken Pizza ($43,434), Barbecue Chicken Pizza ($42,768), and California Chicken Pizza ($41,410) lead in revenue contribution, making chicken-based pizzas the most valuable segment of the menu.  
