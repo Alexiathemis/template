@@ -54,7 +54,6 @@ The company generated a total revenue of $817,860 from 21,350 orders, selling 49
 
 <img width="708" height="239" alt="Screenshot 2026-02-19 at 5 42 20 PM" src="https://github.com/user-attachments/assets/a671944e-ef48-40f8-b7f9-2f250d92f740" />
 
-
 Weekly sales patterns show that Fridays are the busiest day, generating the highest number of orders (3,538), followed closely by Thursdays and Saturdays, while Sundays are the slowest day (2,624 orders). Hourly analysis reveals clear demand spikes during lunch (12–1 PM) and dinner hours (5–7 PM), while traffic remains consistently low between 9–11 AM and declines after 9 PM, suggesting opportunities to optimize staffing and operating hours.  
 
 <img width="717" height="292" alt="Screenshot 2026-02-19 at 5 43 11 PM" src="https://github.com/user-attachments/assets/d47a8f1d-3f1c-41ac-bf0b-755762e6f615" />
@@ -63,9 +62,6 @@ Weekly sales patterns show that Fridays are the busiest day, generating the high
 Sales are strongly driven by the Chicken category, which contains the top revenue-generating pizzas. The Thai Chicken Pizza ($43,434), Barbecue Chicken Pizza ($42,768), and California Chicken Pizza ($41,410) lead in revenue contribution, making chicken-based pizzas the most valuable segment of the menu.  
 
 In terms of order volume, the Classic Deluxe Pizza is the most frequently ordered item (2,416 orders), showing that it is a strong volume driver, even if it does not generate the highest revenue overall. On the other hand, the Brie Carre Pizza is the weakest performer, contributing only $11,588 in revenue and 480 orders, making it the poorest-performing menu item and a potential candidate for menu optimization or removal.  
-
-<img width="324" height="148" alt="Screenshot 2026-02-19 at 5 44 22 PM" src="https://github.com/user-attachments/assets/7303d767-80e7-421e-8316-5f0b2941985b" />
-
 
 <img width="329" height="215" alt="Screenshot 2026-02-19 at 5 44 12 PM" src="https://github.com/user-attachments/assets/40360ed0-ba43-4a78-8033-54787112eb49" />
 
