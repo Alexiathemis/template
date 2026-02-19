@@ -1,5 +1,4 @@
 
-
 # Project Background
 
 ## Project Background — PizzaMia Pizza Sales Analysis
