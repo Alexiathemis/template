@@ -55,13 +55,11 @@ Pizza Mia generated strong performance with $817.9K in revenue from 21.3K orders
 ### Sales Trends  
 The company generated a total revenue of $817,860 from 21,350 orders, selling 49,574 pizzas during the year, with an average order value of $38.31 and an average of 2.3 pizzas per order. Revenue peaked in July at $72,558, while October recorded the lowest revenue at $64,028, indicating moderate seasonality with stronger performance during mid-year months.  
 
-
 <img width="710" height="232" alt="Screenshot 2026-02-19 at 11 10 38 AM" src="https://github.com/user-attachments/assets/1c81659d-19b9-4f51-8495-c498537c838f" />
-
 
 Weekly sales patterns show that Fridays are the busiest day, generating the highest number of orders (3,538), followed closely by Thursdays and Saturdays, while Sundays are the slowest day (2,624 orders). Hourly analysis reveals clear demand spikes during lunch (12–1 PM) and dinner hours (5–7 PM), while traffic remains consistently low between 9–11 AM and declines after 9 PM, suggesting opportunities to optimize staffing and operating hours.  
 
-<img width="718" height="299" alt="Screenshot 2026-02-19 at 11 01 14 AM" src="https://github.com/user-attachments/assets/d5901e33-bcee-404e-8a97-11cb82d02df9" />
+<img width="717" height="286" alt="Screenshot 2026-02-19 at 11 12 19 AM" src="https://github.com/user-attachments/assets/fe48b91e-ac94-4ea3-8aec-3ce5e16024f1" />
 
 ### Menu & Pizza Performance  
 Sales are strongly driven by the Chicken category, which contains the top revenue-generating pizzas. The Thai Chicken Pizza ($43,434), Barbecue Chicken Pizza ($42,768), and California Chicken Pizza ($41,410) lead in revenue contribution, making chicken-based pizzas the most valuable segment of the menu.  
