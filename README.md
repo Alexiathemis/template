@@ -29,6 +29,9 @@ This section breaks down revenue contribution by pizza type to show which items 
 
 The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] 
 
+<img width="1899" height="1056" alt="Screenshot 2026-02-19 at 6 22 40 PM" src="https://github.com/user-attachments/assets/16ed03e2-ab94-49c5-ac91-72954ea82122" />
+
+
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
 
