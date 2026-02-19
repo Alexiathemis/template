@@ -52,7 +52,7 @@ Pizza Mia generated strong performance with $817.9K in revenue from 21.3K orders
 ### Sales Trends  
 The company generated a total revenue of $817,860 from 21,350 orders, selling 49,574 pizzas during the year, with an average order value of $38.31 and an average of 2.3 pizzas per order. Revenue peaked in July at $72,558, while October recorded the lowest revenue at $64,028, indicating moderate seasonality with stronger performance during mid-year months.  
 
-<img width="708" height="239" alt="Screenshot 2026-02-19 at 5 42 20 PM" src="https://github.com/user-attachments/assets/a671944e-ef48-40f8-b7f9-2f250d92f740" />
+<img width="708" height="233" alt="Screenshot 2026-02-19 at 5 42 20 PM copy" src="https://github.com/user-attachments/assets/8725d0ba-8988-4492-939d-09f5bf925436" />
 
 Weekly sales patterns show that Fridays are the busiest day, generating the highest number of orders (3,538), followed closely by Thursdays and Saturdays, while Sundays are the slowest day (2,624 orders). Hourly analysis reveals clear demand spikes during lunch (12–1 PM) and dinner hours (5–7 PM), while traffic remains consistently low between 9–11 AM and declines after 9 PM, suggesting opportunities to optimize staffing and operating hours.  
 
