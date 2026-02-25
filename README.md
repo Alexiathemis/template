@@ -27,7 +27,7 @@ This section breaks down revenue contribution by pizza type to show which items 
 
 ---
 
-The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] 
+The tableau Dashboard can be found here. [VIEW DASHBOARD HERE] https://public.tableau.com/authoring/PizzamiaBusinessinsights/DashboardVc/Dashboard_final#1
 
 <img width="1902" height="1060" alt="Screenshot 2026-02-19 at 6 24 17 PM" src="https://github.com/user-attachments/assets/db8d3e32-6e10-4749-9d6f-34f5f4bd57bd" />
 
